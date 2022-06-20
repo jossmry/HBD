@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+}
+
+.container {
+  background-color: green;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.gatito {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+  width: 20%;
+}
+
+h1 {
+  font-size: 500%;
+  padding-top: 15%;
+  padding-bottom: 5%;
+  font-family: 'Caveat', cursive;
+  font-weight: bold;
+}
+
+button{
+  font-size: xx-large;
+  padding: 0.5em;
+}
+
+#yesBtn {
+  transform: translate(-100%, 0);
+}
+
+#noBtn {
+  position: absolute;
+/*  top: 50%;
+  left: 0%;
+  transform: translate(0%, -50%); */
+}
