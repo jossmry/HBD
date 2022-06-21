@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector("#yesBtn");
 
 yesBtn.addEventListener("click",function() {
-  alert("Grasias");
+  alert("Lo sabia... pero yo te quiero más🥰 Ahora, entra aquí: https://drive.google.com/file/d/1GWpUJL3GbnTStK2lbDb7ugSGDBHkwj8d/view?usp=sharing");
 });
 
 const noBtn = document.querySelector("#noBtn");
