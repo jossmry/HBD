@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector("#yesBtn");
 
 yesBtn.addEventListener("click",function() {
-  alert("Lo sabia... pero yo te quiero más🥰 Ahora, entra aquí: https://drive.google.com/file/d/1GWpUJL3GbnTStK2lbDb7ugSGDBHkwj8d/view?usp=sharing");
+  alert("Mmmh... espero no hayas estado intentando clickear el otro botón😞😾💔 mentiraaa🥺, sabía tu respuesta🤍... Ojo que yo te quiero más🥰 Ahora, escanea el código QR Azul👀");
 });
 
 const noBtn = document.querySelector("#noBtn");
