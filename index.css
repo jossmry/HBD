@@ -3,7 +3,7 @@
 }
 
 .container {
-  background:linear-gradient(top, #14CB3D, #25853B);
+  background:linear-gradient(top, green, black);
   width: 100vw;
   height: 100vh;
   text-align: center;
